@@ -33,8 +33,6 @@ const ToCook = ({wantCooks, handleCooked}) => {
       </tr> 
       ))
     }
-     
-   
 
     </tbody>
   </table>

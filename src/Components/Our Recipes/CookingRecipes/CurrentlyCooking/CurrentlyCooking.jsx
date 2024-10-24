@@ -30,7 +30,7 @@ const CurrentlyCooking = ({ cooked, totalCalories, totalTime }) => {
                     <tr className="border-none">
                         <td></td>
                         <td></td>
-                        <td>Total Time = {totalTime}</td>
+                        <td>Total Time = {totalTime} minutes</td>
                         <td>Total Calories = {totalCalories}</td>
                     </tr>
 
