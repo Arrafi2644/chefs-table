@@ -42,8 +42,8 @@ const OurRecipes = () => {
 
     // console.log(wantCooks)
     // console.log(cooked)
-    console.log(totalTime);
-    console.log(totalCalories);
+    // console.log(totalTime);
+    // console.log(totalCalories);
 
     return (
         <div className="my-12">

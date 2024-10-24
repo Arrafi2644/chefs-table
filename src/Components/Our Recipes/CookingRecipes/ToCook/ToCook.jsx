@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const ToCook = ({wantCooks, handleCooked}) => {
-  console.log(wantCooks)
+  // console.log(wantCooks)
 
   // const {recipe_name, preparing_time, calories} = wantCooks;
 
@@ -45,7 +45,7 @@ const ToCook = ({wantCooks, handleCooked}) => {
 
 ToCook.propTypes = {
   wantCooks: PropTypes.array.isRequired,
-  // handleCooked: PropTypes.func.isRequired
+  handleCooked: PropTypes.func.isRequired
 }
 
 export default ToCook;

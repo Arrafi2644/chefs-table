@@ -17,7 +17,10 @@ const CookingRecipes = ({wantCooks, handleCooked, totalCalories, totalTime, cook
 
 CookingRecipes.propTypes = {
     wantCooks: PropTypes.object.isRequired,
-    handleCooked: PropTypes.func.isRequired
+    handleCooked: PropTypes.func.isRequired,
+    totalCalories: PropTypes.number.isRequired,
+    totalTime: PropTypes.number.isRequired,
+    cooked: PropTypes.array.isRequired
 }
 
 export default CookingRecipes;

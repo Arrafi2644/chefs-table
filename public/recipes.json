@@ -60,7 +60,7 @@
       "recipe_name": "Shrimp Scampi",
       "recipe_img": "https://i.ibb.co.com/3d97SRy/shrimp-scampi.jpg",
       "short_description": "Delicious shrimp cooked in a garlic lemon butter sauce.",
-      "preparing_time": "20 minutes",
+      "preparing_time": 20,
       "calories": 450,
       "ingredients": [
         "400 g shrimp",
@@ -74,7 +74,7 @@
       "recipe_name": "Chocolate Brownies",
       "recipe_img": "https://i.ibb.co.com/jg8rVhm/chocolate-brownies.jpg",
       "short_description": "Rich and fudgy chocolate brownies with a crispy top.",
-      "preparing_time": "40 minutes",
+      "preparing_time": 40,
       "calories": 500,
       "ingredients": [
         "200 g dark chocolate",
